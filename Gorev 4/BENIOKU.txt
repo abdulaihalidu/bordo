@@ -1,0 +1,4 @@
+No packages needed to run this program. Just follow the steps below.
+
+1.Open this project in an editor (eg. Visual studio code)
+2. right-click on the "index.html" file and select the 'open with live server' option to view the webpage

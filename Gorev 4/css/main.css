@@ -1,0 +1,106 @@
+
+body {
+    position: relative;
+    width: 1440px;
+    height: 990px;
+
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(84px);
+    font-family: 'Poppins', sans-serif;
+}
+.navbar {
+    position: absolute;
+    width: 1099px;
+    height: 24px;
+    left: 289px;
+    top: 49px;
+}
+.navbar .nav-item {
+    margin: 0 !important;
+    padding: 0 !important
+}
+
+.navbar .nav-item .nav-link {
+    font-size: 15px;
+    font-weight: 400;
+    color: #000000;
+    transition: all .4s ease-in-out;
+}
+.navbar .nav-item .nav-link:hover {
+    columns: #55bc7e;
+}
+
+.navbar .nav-flex-column .help-center {
+    position: absolute;
+    width: 149.96px;
+    height: 47.13px;
+    left: 60px;
+    top: 883.47px;
+}
+
+.sidebar {
+    position: absolute;
+    width: 252px;
+    height: 990px;
+    left: 0px;
+    top: 0px;
+    border-radius: 20px;
+}
+
+.sidebar .nav {
+    position: absolute;
+    width: 153.96px;
+    height: 879.6px;
+    left: 56px;
+    top: 51px;
+}
+
+.sidebar .nav .help-center {
+    position: absolute;
+    width: 149.96px;
+    height: 47.13px;
+    left: 60px;
+    top: 883.47px;
+
+}
+
+.grid{
+    position: absolute;
+    width: 1099px;
+    height: 783px;
+    left: 289px;
+    top: 143px;
+}
+
+.gird .row .col-1 {
+    position: absolute;
+    width: 539px;
+    height: 380px;
+    left: 289px;
+    top: 143px;
+}
+
+.grid .row .col-2 {
+    position: absolute;
+width: 539px;
+    height: 380px;
+    left: 549px;
+    top: 0px;
+}
+
+.grid .row .col-3 {
+    position: absolute;
+    width: 539px;
+    height: 382px;
+    left: 0px;
+    top: 400px;
+}
+
+.grid .row .col-4 {
+    position: absolute;
+    width: 539px;
+    height: 382px;
+    left: 549px;
+    top: 400px;
+
+}

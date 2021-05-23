@@ -1,0 +1,2 @@
+No packages needed to run this program. 
+Just open it on the terminal window or in any python-based IDE and you are good to go!

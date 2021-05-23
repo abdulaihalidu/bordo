@@ -1,0 +1,5 @@
+Install the "requests" package in order to successfully run this program.
+If you are using pycharm IDE;
+Open the terminal window located at the left-down-coner of the pycharm window and type: pip install requests
+
+If you are using a different IDE, then search for how to install the requests package for your IDE and install it.
